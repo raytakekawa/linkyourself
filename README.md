@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーションの概要
+このアプリでできることは、シンプルです。
+例えば、あなたがイメージするものがあるとしましょう。
+多くの場合ぼやっとした絵のようなイメージなのではないでしょうか。
+これまでのアプリケーションでは、カテゴリーや単語入力などの操作を介してイメージを具体化して検索します。
+しかし、今回私が開発したアプリケーションではそういった方法ではなく直感的な検索を実現します。
 
-Things you may want to cover:
+## URL
 
-* Ruby version
+## 利用方法
+どなたでも閲覧できます。
+ユーザー登録していただくと、各種投稿機能を使用できます。
 
-* System dependencies
+## 目指した課題解決
+このアプリケーションでは、日々の暮らしにちょっとした楽しみを見出したい人に、ご自身の言語化できないがイメージできるもの、またしょうもないようなけどご自身にダイヤモンドのようなインスピレーションを与えてくれるものをお探しの方を対象にしております。重複する部分もありますが、偶然を見つけられるようなアプリケーションになっております。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 洗い出した要件
+・ユーザー管理機能
+・フィーリング検索機能
+・投稿機能
